@@ -1,0 +1,18 @@
+
+Converteren Hex -> Dec
+echo "obase=10; ibase=16; F6" | bc
+
+Converteren Dec -> Hex
+echo "obase=16; ibase=10; 246" | bc
+
+
+print de from 
+printf '%d\n' (0x0DEDCC06 >> 8)
+
+
+Zoek alles met PGN 126208 (EDC),  destination 6,  Source 204 (CC), 
+awk '($3 ~ /^0DED06CC$/)' delta1.log
+
+
+Converteer pgn 
+printf '%d\n' $(( (((0x0DED06CC >> 24) & 0x01) <<16) | (((0x0DED06CC >> 16) & 0xff )<< 8  )))

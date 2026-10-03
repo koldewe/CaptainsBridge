@@ -1,4 +1,23 @@
+PGN Header 
 
+CanId = 0DED06CC
+        dp
+          PF
+            PS
+              SR 
+            
+PF < F0 (ED < F0) Dus 
+
+PGN = Laatste bit van dp | PF | 00
+PGN =                  1 | ED | 00 
+PGN = 126208
+
+Destination = 
+
+Source = SR
+
+
+================================================================
 Seatalk-1  PGN: 126975 (Wordt gestuurd door Raymarine Converter)
 
 Broadcast:
@@ -10,18 +29,22 @@ Bit 0 t/m 5      = Priority = 000111    = 7
 Bit 6            = Reserved = 0         = 0
 Bit 7            = DataPage = 1         = 1
 
+Bit 8 t/m 23
 PF PS -> EF FF -> 1110 1111 1111 1111
 
 Bij PS >= F0  
 PGN = DataPage + PF + PS = 1 1110 1111 1111 1111 = 126975
 
+Bit 24 tm 31
+Source 73 
+
 =======================================================================
 
 Seatalk-1  PGN: 126720 (Gebruikt in canboat)
 
-Broadcast:
+Ño Broadcast:
 1DEFFF73 A3 00 00 FF FF FF FF FF
-
+  PFPF
 1D: -> 0001 1101 Priority  6 Bits + R 1 Bit + DataPage 1 Bit
     
 Bit 0 t/m 5      = Priority = 000111    = 7
@@ -167,3 +190,6 @@ U6 VW XY 0Z 0M RR SS TT
         SS & 0x10 : displays “LARGE XTE” on 600R
         SS & 0x80 : Displays “Auto Rel” on 600R
         TT : Always 0x08 on 400G computer, always 0x05 on 150(G) computer 
+
+
+======================== 
