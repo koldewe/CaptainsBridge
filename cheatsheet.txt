@@ -63,7 +63,7 @@ De onderstaande FastPacket berichten zijn ontvangen van de converter
 Eerste bericht van Sequence FP TL DT DT DT DT DT DT
 RX: 14:21:06.114 R 1DEFFF73 60 16 3B 9F F0 81 90 00
 
-Vervolg bericht van Sequenc FP DT DT DT DT DT DT DT
+     Vervolg bericht van Sequenc FP DT DT DT DT DT DT DT
 RX: 14:21:06.114 R 1DEFFF73 61 03 03 01 FF 08 02 F7
 RX: 14:21:06.116 R 1DEFFF73 62 FF FF 00 00 00 01 00
 RX: 14:21:06.117 R 1DEFFF73 63 00 00 FF FF FF FF FF

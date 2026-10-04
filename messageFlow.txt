@@ -1,0 +1,176 @@
+De volgende berichten worden onderling uitgewisseld:
+
+
+======= Registratie van Koers computter 204
+"pgn": 60928, isoAddressClaim
+"pgn": 126996 productInformation
+
+-> Geen Supported pgns....
+
+===== Steeds Herhaald door 204:
+
+"pgn": 65359, "seatalkPilotHeading"
+"pgn": 127245, rudder"
+"pgn": 127250, vesselHeading
+"pgn": 127251, rateOfTurn
+"pgn": 127257, attitude
+
+"pgn": 65379,
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.337Z",
+  "input": [
+    "17:09:59.378 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "i
+
+
+
+============= Onderlinge Communicatie tussen Plotter (SRC 6) en Koers Computter (SRC 204) 
+
+
+-----> Geen idee????
+  "pgn": 61184,
+  "prio": 7,
+  "src": 204,
+  "dst": 6,
+  "timestamp": "2026-09-17T05:53:41.649Z",
+  "id": "seatalkWirelessKeypadControl"
+
+  "pgn": 61184,
+  "prio": 7,
+  "src": 6,
+  "dst": 204,
+  "timestamp": "2026-09-17T05:53:41.649Z",
+  "id": "seatalkWirelessKeypadControl"
+  
+  
+ ---> Commando & Ack: Activering Autopilot Track modus
+
+  
+  
+  "pgn": 126208,
+  "prio": 3,
+  "src": 6,
+  "dst": 204,
+  "timestamp": "2026-09-17T05:53:41.708Z",
+	"PGN": 65379,
+	"Value": "No Drift, COG referenced (In track, course changes)"
+	"id": "nmeaCommandGroupFunction"
+
+  "pgn": 126208,
+  "prio": 3,
+  "src": 204,
+  "dst": 6,
+  "timestamp": "2026-09-17T05:53:41.708Z",
+  "id": "nmeaAcknowledgeGroupFunction"
+ 
+ 
+ ---> Commando & Ack: Activering Autopilot Compass modus
+  
+  "pgn": 126208,
+  "prio": 3,
+  "src": 6,
+  "dst": 204,
+      "PGN": 65379,
+	  "Value": "Auto, compass commanded"
+	   "id": "nmeaCommandGroupFunction"
+	   
+  "pgn": 126208,
+  "prio": 3,
+  "src": 204,
+  "dst": 6,
+	"PGN": 65379,
+    "Parameter": "Acknowledge"
+	"id": "nmeaAcknowledgeGroupFunction"
+
+
+---> Commando & Ack: Nieuwe Koers
+	
+  "pgn": 126208,
+  "prio": 3,
+  "src": 6,
+  "dst": 204,
+	"PGN": 65360,
+         "Parameter": 5,
+        "parameterId": "targetHeadingTrue",
+        "Value": 4.38
+      },
+      {
+        "Parameter": 6,
+        "parameterId": "targetHeadingMagnetic",
+        "Value": 4.3348
+
+		
+  "pgn": 126208,
+  "prio": 3,
+  "src": 204,
+  "dst": 6,
+  "timestamp": "2026-09-17T05:53:42.433Z",
+	"PGN": 65360,
+	      {
+        "Parameter": "Acknowledge"
+      }
+"id": "nmeaAcknowledgeGroupFunction"
+
+
+---> Commando & Ack: Nieuwe Koers
+
+
+  "pgn": 126208,
+  "prio": 3,
+  "src": 6,
+  "dst": 204,
+	"PGN": 65360,
+      {
+        "Parameter": 5,
+        "parameterId": "targetHeadingTrue",
+        "Value": 4.3975
+      },
+      {
+        "Parameter": 6,
+        "parameterId": "targetHeadingMagnetic",
+        "Value": 4.3523
+      }
+	  
+  "pgn": 126208,
+  "prio": 3,
+  "src": 204,
+  "dst": 6,
+      "PGN": 65360,
+        {
+        "Parameter": "Acknowledge"
+      }
+  
+
+
+
+
+
+
+================204 "pgn": 126996 ==============================
+
+  "description": "Product Information",
+  "fields": {
+    "NMEA 2000 Version": 1.301,
+    "Product Code": 29086,
+    "Model ID": "E70096",
+    "Software Version Code": "3.18 (RSCP V1 L4)",
+    "Model Version": "Raymarine EV-1 Course Computer",
+    "Model Serial Code": "0162189",
+    "Certification Level": "Level B",
+    "Load Equivalency": 1
+  },

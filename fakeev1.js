@@ -25,6 +25,8 @@ const INDUSTRY_CODE = 4;
 
 const socket = new net.Socket();
 
+let Heading = 0.8032;
+
 socket.setEncoding("ascii");
 
 socket.connect(YDWG_PORT, YDWG_HOST, () => {
@@ -152,7 +154,7 @@ function sendProductInformation() {
       "Load Equivalency": 1
     }
   });
-  sendPgnList();
+  //sendPgnList();
 }
 
 
@@ -163,6 +165,27 @@ function sendPgnList() {
   // van een echte bus-log bleek dat de Axiom de +1/+10/-1/-10-knoppen niet
   // toont zolang er geen "Pilot Locked Heading" (65360) wordt uitgezonden
   // en de pilot niet aangeeft "Keypad Message" (65371) te kunnen verwerken.
+  // 59392  ISO Acknowledgement
+  // 59904  ISO Request message
+  // 60928  ISO Address Claim message
+  // 126464 Transmit / Receive PGN List Group Function
+  // 126996 standaard Productinformatie-bericht
+  // 127245 Rudder data
+  // 127250 Vessel Heading
+  // 65379  proprietary Raymarine SeaTalk / Pilot State / Pilot Mode message
+  // 65360  Seatalk: Pilot Locked Heading
+  // 65371  proprietary Parameter Group Number used by Raymarine / SeaTalk
+  // 65288  Raymarine SeaTalk Alarm
+  // 65535  Raymarine Proprietary
+  // 126720 Raymarine Proprietary Seatalk1
+  // 126998 Configuration Information (Verwijderd)
+  // 127237 Heading/Track control  (Verwijderd)
+  // 65359  Raymarine Seatalk PilotHeading
+
+  // 127251, rateOfTurn (nog niet geimplementeerd)
+  // 127257, attitude (nog niet geimplementeerd)
+
+
   sendPgn({
     pgn: 126464,
     src: SOURCE_ADDRESS,
@@ -170,28 +193,76 @@ function sendPgnList() {
     fields: {
       'Function Code': 0, // 0 = transmit-lijst
       list: [59392, 59904, 60928, 126208, 126464, 126996,
-             127245, 127250, 65379, 65360, 65371, 65288,
-             65535, 126720, 126998, 127237, 127245]
+             65379, 65360, 65371, 65288, 65535, 126720,
+             127245, 127250, 65359]
     }
   });
+
+  sendPgn({
+    pgn: 126464,
+    src: SOURCE_ADDRESS,
+    dst: DESTINATION,
+    fields: {
+      'Function Code': 1, // 1 = Receive-lijst
+      list: [59392, 59904, 60928, 126208, 126464, 126996,
+             65379, 65360, 65371, 65288,
+             65535, 126720]
+    }
+  });
+
 }
-// ------------------------------------------------------------
-// Raymarine proprietary PGN 65379
-//
-// Known structure:
-//
-// 3B 9F = Raymarine manufacturer + marine industry
-//
-// Pilot Mode:
-//   0000 = Standby
-//   0040 = Auto
-//   0100 = Wind/Vane
-//   0180 = Track
-//   0181 = No Drift
-//
-// We deliberately send the complete known frame rather than
-// allowing canboatjs to fill unknown bytes with FF.
-// ------------------------------------------------------------
+
+function sendAcknowledge(pgn) {
+
+  const firstByte = pgn & 0xFF;
+  const secondByte = pgn >> 8;
+
+  // PGN 126208  = 0x1ED00
+  //
+  // Priority 7
+  // Destination = 0x1
+  // Source 35 = 0x23
+  // CAN ID = 0D ED 01 23
+  // Data   = 
+  // "80 08 02 63 FF 00 00 04",
+  // "81 00 00 FF FF FF FF FF"
+
+  const canId = 0x0DED0100 | SOURCE_ADDRESS;
+
+  const data1 = [
+    0x80,
+    0x08,
+    0x02,
+    firstByte,
+    secondByte,
+    0x00,
+    0x00,
+    0x04
+  ];
+
+
+   setTimeout(() => {
+    sendRaw(canId, data1);
+  }, 500);
+
+  
+
+   const data2 = [
+    0x81,
+    0x00,
+    0x00,
+    0xFF,
+    0xFF,
+    0xFF,
+    0xFF,
+    0xFF
+  ];
+
+  setTimeout(() => {
+    sendRaw(canId, data2);
+  }, 500);
+}
+
 
 function handleIncomingPgn(pgn) {
   console.log(`RX PGN ${pgn.pgn} van src ${pgn.src}:`, JSON.stringify(pgn.fields));
@@ -215,11 +286,46 @@ function handleIncomingPgn(pgn) {
   // Axiom vraagt om Product Info of PGN List
   if (pgn.pgn === 59904 && pgn.fields && pgn.fields['PGN'] !== undefined) {
     const requestedPgn = pgn.fields['PGN'];
-    if (requestedPgn === 126996) sendProductInfo();
+    if (requestedPgn === 126996) sendProductInformation();
     if (requestedPgn === 126464) sendPgnList();
+  }
+
+
+    if (pgn.pgn === 126208 && pgn.fields && pgn.fields['PGN'] !== undefined) {
+
+    const requestedPgn = pgn.fields['PGN'];
+    if (requestedPgn === 65379) {
+      console.log("Received  65379 - Seatalk: Pilot Mode");
+      sendAcknowledge(65379);
+    }
+    if (requestedPgn === 65360) {
+      console.log("Received  65360 - Seatalk: Pilot Locked Heading");
+      sendAcknowledge(65360);
+      if (pgn.fields['list'] !== undefined) {
+        const list = pgn.fields['list'];
+        Heading = list.find(x => x.parameterId === "targetHeadingMagnetic")?.Value ?? Heading;
+      }
+    }
   }
 }
 
+// ------------------------------------------------------------
+// Raymarine proprietary PGN 65379
+//
+// Known structure:
+//
+// 3B 9F = Raymarine manufacturer + marine industry
+//
+// Pilot Mode:
+//   0000 = Standby
+//   0040 = s
+//   0100 = Wind/Vane
+//   0180 = Track
+//   0181 = No Drift
+//
+// We deliberately send the complete known frame rather than
+// allowing canboatjs to fill unknown bytes with FF.
+// ------------------------------------------------------------
 
 function sendPilotMode(mode) {
 
@@ -280,6 +386,70 @@ function sendPilotMode(mode) {
   sendRaw(canId, data);
 }
 
+function sendPilotHeading(heading) {
+
+  heading = Math.round(heading * 10000); 
+  const firstByte = heading & 0xFF;
+  const secondByte = heading >> 8;
+
+  // PGN 65359 = 0xFF4F
+  //
+  // Priority 7
+  // Source 35 = 0x23
+  //
+  // CAN ID = 1C FF 4F 23
+  // Data   = 3B 9F 00 FF FF 60 1F FF
+
+  const canId = 0x1CFF4F00 | SOURCE_ADDRESS;
+
+  const data = [
+    0x3B,
+    0x9F,
+    0x00,
+    0xFF,
+    0xFF,
+    firstByte,
+    secondByte,
+    0xFF
+  ];
+
+  sendRaw(canId, data);
+}
+
+
+function sendPilotLockedHeading(heading) {
+
+  heading = Math.round(heading * 10000); 
+  const firstByte = heading & 0xFF;
+  const secondByte = heading >> 8;
+
+  // PGN 65360 = 0xff50
+  //
+  // Priority 7
+  // Source 35 = 0x23
+  //
+  // CAN ID = 1C FF 50 23
+  // Data   = 3B 9F 00 FF FF 60 1F FF
+
+  const canId = 0x1CFF5000 | SOURCE_ADDRESS;
+
+  const data = [
+    0x3B,
+    0x9F,
+    0x00,
+    0xFF,
+    0xFF,
+    firstByte,
+    secondByte,
+    0xFF
+  ];
+
+  sendRaw(canId, data);
+}
+
+
+
+
 // ------------------------------------------------------------
 // Start sequence
 // ------------------------------------------------------------
@@ -299,6 +469,13 @@ function start() {
     sendProductInformation();
   }, 500);
 
+  setTimeout(() => {
+    sendPgnList();
+  }, 500);
+
+
+  
+
   // 3. Pilot Mode
   setInterval(() => {
     sendPgn({
@@ -313,6 +490,11 @@ function start() {
     });
 
     sendPilotMode("auto");
+
+    sendPilotHeading(Heading);
+
+    sendPilotLockedHeading(Heading);
+
   }, 1000);
 
   // ----------------------------------------------------------

@@ -1,0 +1,29 @@
+De volgende berichten worden onderling uitgewisseld:
+
+"pgn": 60928, isoAddressClaim
+"pgn": 126996 productInformation
+
+
+"pgn": 65359, "seatalkPilotHeading"
+
+"pgn": 127245, rudder"
+"pgn": 127250, vesselHeading
+"pgn": 127251, rateOfTurn
+"pgn": 127257, attitude
+
+
+
+"pgn": 126996
+================204==============================
+
+  "description": "Product Information",
+  "fields": {
+    "NMEA 2000 Version": 1.301,
+    "Product Code": 29086,
+    "Model ID": "E70096",
+    "Software Version Code": "3.18 (RSCP V1 L4)",
+    "Model Version": "Raymarine EV-1 Course Computer",
+    "Model Serial Code": "0162189",
+    "Certification Level": "Level B",
+    "Load Equivalency": 1
+  },

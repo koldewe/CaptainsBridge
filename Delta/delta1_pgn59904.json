@@ -1,0 +1,630 @@
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 6,
+  "dst": 0,
+  "timestamp": "2026-10-04T07:35:00.641Z",
+  "input": [
+    "17:08:56.570 R 18EA0006 00 EE 00"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 60928
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 2,
+  "dst": 0,
+  "timestamp": "2026-10-04T07:35:00.641Z",
+  "input": [
+    "17:08:56.570 R 18EA0002 00 EE 00"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 60928
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 2,
+  "dst": 0,
+  "timestamp": "2026-10-04T07:35:00.641Z",
+  "input": [
+    "17:08:56.572 R 18EA0002 00 EE 01"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 126464
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 6,
+  "dst": 0,
+  "timestamp": "2026-10-04T07:35:00.641Z",
+  "input": [
+    "17:08:56.573 R 18EA0006 00 EE 01"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 126464
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 2,
+  "dst": 0,
+  "timestamp": "2026-10-04T07:35:00.642Z",
+  "input": [
+    "17:08:56.595 R 18EA0002 14 F0 01"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 126996
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 6,
+  "dst": 0,
+  "timestamp": "2026-10-04T07:35:00.643Z",
+  "input": [
+    "17:08:56.629 R 18EA0006 14 F0 01"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 126996
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 6,
+  "dst": 172,
+  "timestamp": "2026-10-04T07:35:00.725Z",
+  "input": [
+    "17:09:03.077 R 18EAAC06 00 EE 01"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 126464
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 2,
+  "dst": 172,
+  "timestamp": "2026-10-04T07:35:00.725Z",
+  "input": [
+    "17:09:03.078 R 18EAAC02 00 EE 01"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 126464
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 172,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.727Z",
+  "input": [
+    "17:09:06.270 R 18EAFFAC 00 EE 00"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 60928
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 172,
+  "dst": 204,
+  "timestamp": "2026-10-04T07:35:00.728Z",
+  "input": [
+    "17:09:06.273 R 18EACCAC 00 EE 00"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 60928
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 204,
+  "dst": 172,
+  "timestamp": "2026-10-04T07:35:00.730Z",
+  "input": [
+    "17:09:03.772 R 18EAACCC 14 F0 01"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 126996
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 172,
+  "dst": 1,
+  "timestamp": "2026-10-04T07:35:00.731Z",
+  "input": [
+    "17:09:03.826 R 18EA01AC 14 F0 01"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 126996
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 172,
+  "dst": 0,
+  "timestamp": "2026-10-04T07:35:00.731Z",
+  "input": [
+    "17:09:03.827 R 18EA00AC 14 F0 01"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 126996
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 172,
+  "dst": 2,
+  "timestamp": "2026-10-04T07:35:00.732Z",
+  "input": [
+    "17:09:03.827 R 18EA02AC 14 F0 01"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 126996
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 172,
+  "dst": 6,
+  "timestamp": "2026-10-04T07:35:00.732Z",
+  "input": [
+    "17:09:03.830 R 18EA06AC 14 F0 01"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 126996
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 172,
+  "dst": 64,
+  "timestamp": "2026-10-04T07:35:00.732Z",
+  "input": [
+    "17:09:03.835 R 18EA40AC 14 F0 01"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 126996
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 172,
+  "dst": 115,
+  "timestamp": "2026-10-04T07:35:00.732Z",
+  "input": [
+    "17:09:03.836 R 18EA73AC 14 F0 01"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 126996
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 172,
+  "dst": 116,
+  "timestamp": "2026-10-04T07:35:00.732Z",
+  "input": [
+    "17:09:03.836 R 18EA74AC 14 F0 01"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 126996
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 2,
+  "dst": 172,
+  "timestamp": "2026-10-04T07:35:00.758Z",
+  "input": [
+    "17:09:08.544 R 18EAAC02 00 EE 01"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 126464
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 2,
+  "dst": 172,
+  "timestamp": "2026-10-04T07:35:00.759Z",
+  "input": [
+    "17:09:05.560 R 18EAAC02 14 F0 01"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 126996
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 172,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.785Z",
+  "input": [
+    "17:09:11.242 R 18EAFFAC 00 EE 00"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 60928
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 6,
+  "dst": 64,
+  "timestamp": "2026-10-04T07:35:01.522Z",
+  "input": [
+    "17:10:11.289 R 18EA4006 00 EE 00"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 60928
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 6,
+  "dst": 115,
+  "timestamp": "2026-10-04T07:35:01.523Z",
+  "input": [
+    "17:10:11.295 R 18EA7306 00 EE 00"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 60928
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 6,
+  "dst": 204,
+  "timestamp": "2026-10-04T07:35:01.523Z",
+  "input": [
+    "17:10:11.299 R 18EACC06 00 EE 00"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 60928
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 172,
+  "dst": 64,
+  "timestamp": "2026-10-04T07:35:01.526Z",
+  "input": [
+    "17:10:11.552 R 18EA40AC 14 F0 01"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 126996
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 172,
+  "dst": 115,
+  "timestamp": "2026-10-04T07:35:01.526Z",
+  "input": [
+    "17:10:11.553 R 18EA73AC 14 F0 01"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 126996
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 172,
+  "dst": 6,
+  "timestamp": "2026-10-04T07:35:02.123Z",
+  "input": [
+    "17:11:04.192 R 18EA06AC 00 EE 00"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 60928
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 172,
+  "dst": 6,
+  "timestamp": "2026-10-04T07:35:02.127Z",
+  "input": [
+    "17:11:01.451 R 18EA06AC 14 F0 01"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 126996
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 2,
+  "dst": 64,
+  "timestamp": "2026-10-04T07:35:02.275Z",
+  "input": [
+    "17:11:12.421 R 18EA4002 00 EE 00"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 60928
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 2,
+  "dst": 115,
+  "timestamp": "2026-10-04T07:35:02.275Z",
+  "input": [
+    "17:11:12.422 R 18EA7302 00 EE 00"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 60928
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 172,
+  "dst": 64,
+  "timestamp": "2026-10-04T07:35:02.277Z",
+  "input": [
+    "17:11:12.684 R 18EA40AC 14 F0 01"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 126996
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 172,
+  "dst": 115,
+  "timestamp": "2026-10-04T07:35:02.278Z",
+  "input": [
+    "17:11:12.685 R 18EA73AC 14 F0 01"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 126996
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 6,
+  "dst": 64,
+  "timestamp": "2026-10-04T07:35:03.064Z",
+  "input": [
+    "17:12:19.171 R 18EA4006 00 EE 00"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 60928
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 6,
+  "dst": 115,
+  "timestamp": "2026-10-04T07:35:03.064Z",
+  "input": [
+    "17:12:19.174 R 18EA7306 00 EE 00"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 60928
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 2,
+  "dst": 64,
+  "timestamp": "2026-10-04T07:35:03.723Z",
+  "input": [
+    "17:13:20.262 R 18EA4002 00 EE 00"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 60928
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 2,
+  "dst": 115,
+  "timestamp": "2026-10-04T07:35:03.723Z",
+  "input": [
+    "17:13:20.263 R 18EA7302 00 EE 00"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 60928
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 172,
+  "dst": 64,
+  "timestamp": "2026-10-04T07:35:03.725Z",
+  "input": [
+    "17:13:20.524 R 18EA40AC 14 F0 01"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 126996
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 172,
+  "dst": 115,
+  "timestamp": "2026-10-04T07:35:03.725Z",
+  "input": [
+    "17:13:20.525 R 18EA73AC 14 F0 01"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 126996
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 172,
+  "dst": 0,
+  "timestamp": "2026-10-04T07:35:04.285Z",
+  "input": [
+    "17:14:09.127 R 18EA00AC 00 EE 00"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 60928
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 6,
+  "dst": 64,
+  "timestamp": "2026-10-04T07:35:04.434Z",
+  "input": [
+    "17:14:20.974 R 18EA4006 00 EE 00"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 60928
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 6,
+  "dst": 115,
+  "timestamp": "2026-10-04T07:35:04.434Z",
+  "input": [
+    "17:14:20.980 R 18EA7306 00 EE 00"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 60928
+  },
+  "id": "isoRequest"
+}
+{
+  "pgn": 59904,
+  "prio": 6,
+  "src": 172,
+  "dst": 64,
+  "timestamp": "2026-10-04T07:35:04.437Z",
+  "input": [
+    "17:14:21.238 R 18EA40AC 14 F0 01"
+  ],
+  "description": "ISO Request",
+  "fields": {
+    "PGN": 126996
+  },
+  "id": "isoRequest"
+}

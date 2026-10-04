@@ -1,0 +1,7707 @@
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.233Z",
+  "input": [
+    "17:08:27.726 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.253Z",
+  "input": [
+    "17:08:28.815 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.274Z",
+  "input": [
+    "17:08:29.665 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.291Z",
+  "input": [
+    "17:08:30.651 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.309Z",
+  "input": [
+    "17:08:31.794 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.328Z",
+  "input": [
+    "17:08:32.694 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.347Z",
+  "input": [
+    "17:08:33.689 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.363Z",
+  "input": [
+    "17:08:34.685 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.379Z",
+  "input": [
+    "17:08:35.628 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.395Z",
+  "input": [
+    "17:08:36.767 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.410Z",
+  "input": [
+    "17:08:37.669 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.423Z",
+  "input": [
+    "17:08:38.664 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.437Z",
+  "input": [
+    "17:08:39.665 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.451Z",
+  "input": [
+    "17:08:40.650 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.467Z",
+  "input": [
+    "17:08:41.791 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.480Z",
+  "input": [
+    "17:08:42.634 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.493Z",
+  "input": [
+    "17:08:43.625 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.508Z",
+  "input": [
+    "17:08:44.815 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.522Z",
+  "input": [
+    "17:08:45.616 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.535Z",
+  "input": [
+    "17:08:46.705 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.548Z",
+  "input": [
+    "17:08:47.750 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.560Z",
+  "input": [
+    "17:08:48.695 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.572Z",
+  "input": [
+    "17:08:49.598 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.581Z",
+  "input": [
+    "17:08:50.592 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.591Z",
+  "input": [
+    "17:08:51.829 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.601Z",
+  "input": [
+    "17:08:52.825 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.611Z",
+  "input": [
+    "17:08:53.814 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.622Z",
+  "input": [
+    "17:08:54.652 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.632Z",
+  "input": [
+    "17:08:55.644 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.647Z",
+  "input": [
+    "17:08:56.737 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.659Z",
+  "input": [
+    "17:08:57.725 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.671Z",
+  "input": [
+    "17:08:58.772 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.685Z",
+  "input": [
+    "17:08:59.805 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.697Z",
+  "input": [
+    "17:09:00.751 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.709Z",
+  "input": [
+    "17:09:01.741 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.719Z",
+  "input": [
+    "17:09:02.631 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.732Z",
+  "input": [
+    "17:09:03.838 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.748Z",
+  "input": [
+    "17:09:04.624 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.765Z",
+  "input": [
+    "17:09:06.755 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.776Z",
+  "input": [
+    "17:09:07.606 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.789Z",
+  "input": [
+    "17:09:08.600 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.802Z",
+  "input": [
+    "17:09:09.591 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.815Z",
+  "input": [
+    "17:09:10.634 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.829Z",
+  "input": [
+    "17:09:11.779 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.839Z",
+  "input": [
+    "17:09:12.771 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.851Z",
+  "input": [
+    "17:09:13.765 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.864Z",
+  "input": [
+    "17:09:14.759 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.875Z",
+  "input": [
+    "17:09:15.660 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.887Z",
+  "input": [
+    "17:09:16.656 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.899Z",
+  "input": [
+    "17:09:17.647 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.910Z",
+  "input": [
+    "17:09:18.734 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.921Z",
+  "input": [
+    "17:09:19.726 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.924Z",
+  "input": [
+    "17:09:20.623 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.934Z",
+  "input": [
+    "17:09:21.617 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.950Z",
+  "input": [
+    "17:09:22.616 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.962Z",
+  "input": [
+    "17:09:23.647 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.973Z",
+  "input": [
+    "17:09:24.595 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.983Z",
+  "input": [
+    "17:09:25.681 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:00.994Z",
+  "input": [
+    "17:09:26.777 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.005Z",
+  "input": [
+    "17:09:27.815 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.016Z",
+  "input": [
+    "17:09:28.797 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.028Z",
+  "input": [
+    "17:09:29.808 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.039Z",
+  "input": [
+    "17:09:30.555 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.049Z",
+  "input": [
+    "17:09:31.748 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.060Z",
+  "input": [
+    "17:09:32.584 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.074Z",
+  "input": [
+    "17:09:33.583 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.086Z",
+  "input": [
+    "17:09:34.756 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.097Z",
+  "input": [
+    "17:09:35.766 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.108Z",
+  "input": [
+    "17:09:36.608 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.119Z",
+  "input": [
+    "17:09:37.552 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.131Z",
+  "input": [
+    "17:09:38.730 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.143Z",
+  "input": [
+    "17:09:42.609 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.154Z",
+  "input": [
+    "17:09:43.605 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.165Z",
+  "input": [
+    "17:09:44.600 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.176Z",
+  "input": [
+    "17:09:45.594 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.188Z",
+  "input": [
+    "17:09:46.588 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.200Z",
+  "input": [
+    "17:09:47.583 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.211Z",
+  "input": [
+    "17:09:48.581 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.222Z",
+  "input": [
+    "17:09:49.401 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.233Z",
+  "input": [
+    "17:09:50.570 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.246Z",
+  "input": [
+    "17:09:51.567 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.258Z",
+  "input": [
+    "17:09:52.563 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.269Z",
+  "input": [
+    "17:09:53.558 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.280Z",
+  "input": [
+    "17:09:54.552 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.291Z",
+  "input": [
+    "17:09:55.550 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.304Z",
+  "input": [
+    "17:09:56.546 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.316Z",
+  "input": [
+    "17:09:57.539 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.326Z",
+  "input": [
+    "17:09:58.532 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.337Z",
+  "input": [
+    "17:09:59.378 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.338Z",
+  "input": [
+    "17:09:59.526 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.351Z",
+  "input": [
+    "17:10:00.783 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.365Z",
+  "input": [
+    "17:10:01.517 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.381Z",
+  "input": [
+    "17:10:02.514 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.393Z",
+  "input": [
+    "17:10:03.509 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.406Z",
+  "input": [
+    "17:10:04.500 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.418Z",
+  "input": [
+    "17:10:05.505 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.432Z",
+  "input": [
+    "17:10:06.493 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.444Z",
+  "input": [
+    "17:10:07.743 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.456Z",
+  "input": [
+    "17:10:08.490 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.468Z",
+  "input": [
+    "17:10:09.478 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.479Z",
+  "input": [
+    "17:10:10.477 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.491Z",
+  "input": [
+    "17:10:11.730 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.504Z",
+  "input": [
+    "17:10:12.469 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.516Z",
+  "input": [
+    "17:10:13.465 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.529Z",
+  "input": [
+    "17:10:14.716 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.543Z",
+  "input": [
+    "17:10:15.449 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.556Z",
+  "input": [
+    "17:10:16.445 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.570Z",
+  "input": [
+    "17:10:17.698 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.583Z",
+  "input": [
+    "17:10:18.695 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.593Z",
+  "input": [
+    "17:10:19.434 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.606Z",
+  "input": [
+    "17:10:20.428 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.618Z",
+  "input": [
+    "17:10:21.683 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.630Z",
+  "input": [
+    "17:10:22.679 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.644Z",
+  "input": [
+    "17:10:24.407 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.656Z",
+  "input": [
+    "17:10:25.659 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.660Z",
+  "input": [
+    "17:10:25.939 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.671Z",
+  "input": [
+    "17:10:26.672 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.684Z",
+  "input": [
+    "17:10:27.389 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.696Z",
+  "input": [
+    "17:10:28.643 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.712Z",
+  "input": [
+    "17:10:29.637 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.724Z",
+  "input": [
+    "17:10:30.375 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.737Z",
+  "input": [
+    "17:10:31.370 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.751Z",
+  "input": [
+    "17:10:32.621 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.764Z",
+  "input": [
+    "17:10:33.624 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.781Z",
+  "input": [
+    "17:10:34.623 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.797Z",
+  "input": [
+    "17:10:35.612 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.811Z",
+  "input": [
+    "17:10:36.607 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.822Z",
+  "input": [
+    "17:10:37.616 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.834Z",
+  "input": [
+    "17:10:38.341 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.847Z",
+  "input": [
+    "17:10:39.594 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.859Z",
+  "input": [
+    "17:10:40.588 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.871Z",
+  "input": [
+    "17:10:41.589 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.879Z",
+  "input": [
+    "17:10:43.573 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.891Z",
+  "input": [
+    "17:10:44.577 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.903Z",
+  "input": [
+    "17:10:45.297 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.915Z",
+  "input": [
+    "17:10:46.553 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.928Z",
+  "input": [
+    "17:10:47.556 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.940Z",
+  "input": [
+    "17:10:48.549 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.952Z",
+  "input": [
+    "17:10:49.532 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.963Z",
+  "input": [
+    "17:10:50.526 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.974Z",
+  "input": [
+    "17:10:51.535 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:01.993Z",
+  "input": [
+    "17:10:53.520 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.005Z",
+  "input": [
+    "17:10:54.501 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.024Z",
+  "input": [
+    "17:10:52.505 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.032Z",
+  "input": [
+    "17:10:54.491 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.048Z",
+  "input": [
+    "17:10:55.733 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.061Z",
+  "input": [
+    "17:10:56.724 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.075Z",
+  "input": [
+    "17:10:57.717 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.088Z",
+  "input": [
+    "17:10:58.711 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.102Z",
+  "input": [
+    "17:10:59.705 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.116Z",
+  "input": [
+    "17:11:00.702 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.132Z",
+  "input": [
+    "17:11:01.694 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.145Z",
+  "input": [
+    "17:11:02.685 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.160Z",
+  "input": [
+    "17:11:03.676 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.173Z",
+  "input": [
+    "17:11:04.670 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.187Z",
+  "input": [
+    "17:11:05.670 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.199Z",
+  "input": [
+    "17:11:06.665 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.212Z",
+  "input": [
+    "17:11:07.649 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.226Z",
+  "input": [
+    "17:11:08.646 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.239Z",
+  "input": [
+    "17:11:09.637 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.252Z",
+  "input": [
+    "17:11:10.632 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.264Z",
+  "input": [
+    "17:11:11.627 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.278Z",
+  "input": [
+    "17:11:12.695 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.292Z",
+  "input": [
+    "17:11:13.614 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.307Z",
+  "input": [
+    "17:11:14.755 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.320Z",
+  "input": [
+    "17:11:15.745 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.334Z",
+  "input": [
+    "17:11:16.593 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.346Z",
+  "input": [
+    "17:11:17.588 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.359Z",
+  "input": [
+    "17:11:18.583 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.372Z",
+  "input": [
+    "17:11:19.578 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.387Z",
+  "input": [
+    "17:11:20.579 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.399Z",
+  "input": [
+    "17:11:21.518 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.412Z",
+  "input": [
+    "17:11:22.809 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.425Z",
+  "input": [
+    "17:11:23.559 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.445Z",
+  "input": [
+    "17:11:25.643 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.458Z",
+  "input": [
+    "17:11:26.792 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.470Z",
+  "input": [
+    "17:11:27.781 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.482Z",
+  "input": [
+    "17:11:28.819 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.496Z",
+  "input": [
+    "17:11:29.814 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.509Z",
+  "input": [
+    "17:11:30.652 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.522Z",
+  "input": [
+    "17:11:31.756 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.534Z",
+  "input": [
+    "17:11:32.696 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.556Z",
+  "input": [
+    "17:11:35.774 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.569Z",
+  "input": [
+    "17:11:36.816 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.586Z",
+  "input": [
+    "17:11:37.718 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.600Z",
+  "input": [
+    "17:11:38.713 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.615Z",
+  "input": [
+    "17:11:39.604 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.628Z",
+  "input": [
+    "17:11:40.703 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.641Z",
+  "input": [
+    "17:11:41.644 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.653Z",
+  "input": [
+    "17:11:42.582 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.667Z",
+  "input": [
+    "17:11:43.678 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.679Z",
+  "input": [
+    "17:11:44.604 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.692Z",
+  "input": [
+    "17:11:45.646 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.705Z",
+  "input": [
+    "17:11:46.591 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.717Z",
+  "input": [
+    "17:11:47.643 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.730Z",
+  "input": [
+    "17:11:48.725 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.742Z",
+  "input": [
+    "17:11:49.818 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.754Z",
+  "input": [
+    "17:11:50.621 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.766Z",
+  "input": [
+    "17:11:51.614 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.779Z",
+  "input": [
+    "17:11:52.604 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.791Z",
+  "input": [
+    "17:11:53.791 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.806Z",
+  "input": [
+    "17:11:54.812 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.819Z",
+  "input": [
+    "17:11:55.583 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.833Z",
+  "input": [
+    "17:11:56.578 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.846Z",
+  "input": [
+    "17:11:57.580 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.859Z",
+  "input": [
+    "17:11:58.571 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.873Z",
+  "input": [
+    "17:11:59.806 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.885Z",
+  "input": [
+    "17:12:00.797 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.898Z",
+  "input": [
+    "17:12:01.538 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.912Z",
+  "input": [
+    "17:12:02.785 R 1CFF63CC 3B 9F 00 01 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Vane, Wind Mode",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.919Z",
+  "input": [
+    "17:12:05.899 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.926Z",
+  "input": [
+    "17:12:03.729 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.940Z",
+  "input": [
+    "17:12:05.773 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.951Z",
+  "input": [
+    "17:12:06.761 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.962Z",
+  "input": [
+    "17:12:10.628 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.974Z",
+  "input": [
+    "17:12:11.701 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.986Z",
+  "input": [
+    "17:12:12.665 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:02.999Z",
+  "input": [
+    "17:12:13.412 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.010Z",
+  "input": [
+    "17:12:14.617 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.020Z",
+  "input": [
+    "17:12:15.679 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.032Z",
+  "input": [
+    "17:12:16.620 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.044Z",
+  "input": [
+    "17:12:17.592 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.058Z",
+  "input": [
+    "17:12:18.587 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.074Z",
+  "input": [
+    "17:12:20.580 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.083Z",
+  "input": [
+    "17:12:22.608 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.088Z",
+  "input": [
+    "17:12:24.095 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.094Z",
+  "input": [
+    "17:12:24.565 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.106Z",
+  "input": [
+    "17:12:25.633 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.118Z",
+  "input": [
+    "17:12:26.599 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.132Z",
+  "input": [
+    "17:12:27.550 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.144Z",
+  "input": [
+    "17:12:28.556 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.149Z",
+  "input": [
+    "17:12:30.590 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.161Z",
+  "input": [
+    "17:12:31.534 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.177Z",
+  "input": [
+    "17:12:32.568 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.187Z",
+  "input": [
+    "17:12:34.522 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.206Z",
+  "input": [
+    "17:12:36.567 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.219Z",
+  "input": [
+    "17:12:37.761 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.232Z",
+  "input": [
+    "17:12:38.548 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.244Z",
+  "input": [
+    "17:12:39.592 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.259Z",
+  "input": [
+    "17:12:40.744 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.272Z",
+  "input": [
+    "17:12:41.575 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.286Z",
+  "input": [
+    "17:12:42.534 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.300Z",
+  "input": [
+    "17:12:43.740 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.311Z",
+  "input": [
+    "17:12:44.525 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.322Z",
+  "input": [
+    "17:12:45.550 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.334Z",
+  "input": [
+    "17:12:46.511 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.347Z",
+  "input": [
+    "17:12:47.720 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.360Z",
+  "input": [
+    "17:12:48.505 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.373Z",
+  "input": [
+    "17:12:49.544 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.388Z",
+  "input": [
+    "17:12:50.706 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.401Z",
+  "input": [
+    "17:12:51.533 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.415Z",
+  "input": [
+    "17:12:52.482 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.428Z",
+  "input": [
+    "17:12:53.677 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.442Z",
+  "input": [
+    "17:12:54.671 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.455Z",
+  "input": [
+    "17:12:55.501 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.469Z",
+  "input": [
+    "17:12:56.665 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.483Z",
+  "input": [
+    "17:12:57.659 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.497Z",
+  "input": [
+    "17:12:58.444 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.510Z",
+  "input": [
+    "17:12:59.477 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.522Z",
+  "input": [
+    "17:13:01.460 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.536Z",
+  "input": [
+    "17:13:02.424 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.548Z",
+  "input": [
+    "17:13:03.628 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.562Z",
+  "input": [
+    "17:13:04.623 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.574Z",
+  "input": [
+    "17:13:05.452 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.587Z",
+  "input": [
+    "17:13:06.618 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.601Z",
+  "input": [
+    "17:13:08.604 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.616Z",
+  "input": [
+    "17:13:09.599 R 1CFF63CC 3B 9F 40 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Auto, compass commanded",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.631Z",
+  "input": [
+    "17:13:11.589 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.643Z",
+  "input": [
+    "17:13:12.365 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.654Z",
+  "input": [
+    "17:13:13.583 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.666Z",
+  "input": [
+    "17:13:14.576 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.679Z",
+  "input": [
+    "17:13:16.567 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.691Z",
+  "input": [
+    "17:13:17.570 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.700Z",
+  "input": [
+    "17:13:18.560 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.714Z",
+  "input": [
+    "17:13:19.549 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.726Z",
+  "input": [
+    "17:13:20.528 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.738Z",
+  "input": [
+    "17:13:21.540 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.749Z",
+  "input": [
+    "17:13:22.535 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.764Z",
+  "input": [
+    "17:13:24.528 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.776Z",
+  "input": [
+    "17:13:25.522 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.787Z",
+  "input": [
+    "17:13:26.521 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.798Z",
+  "input": [
+    "17:13:27.515 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.810Z",
+  "input": [
+    "17:13:28.511 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.823Z",
+  "input": [
+    "17:13:29.506 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.835Z",
+  "input": [
+    "17:13:30.502 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.847Z",
+  "input": [
+    "17:13:31.494 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.858Z",
+  "input": [
+    "17:13:32.747 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.870Z",
+  "input": [
+    "17:13:33.483 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.882Z",
+  "input": [
+    "17:13:34.481 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.893Z",
+  "input": [
+    "17:13:35.471 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.904Z",
+  "input": [
+    "17:13:36.727 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.915Z",
+  "input": [
+    "17:13:38.449 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.926Z",
+  "input": [
+    "17:13:36.449 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.937Z",
+  "input": [
+    "17:13:37.702 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.948Z",
+  "input": [
+    "17:13:38.437 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.959Z",
+  "input": [
+    "17:13:39.432 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.971Z",
+  "input": [
+    "17:13:40.693 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.981Z",
+  "input": [
+    "17:13:41.425 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:03.992Z",
+  "input": [
+    "17:13:42.422 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.003Z",
+  "input": [
+    "17:13:43.674 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.014Z",
+  "input": [
+    "17:13:44.409 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.026Z",
+  "input": [
+    "17:13:45.409 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.036Z",
+  "input": [
+    "17:13:46.655 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.050Z",
+  "input": [
+    "17:13:48.390 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.062Z",
+  "input": [
+    "17:13:49.380 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.074Z",
+  "input": [
+    "17:13:50.642 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.085Z",
+  "input": [
+    "17:13:51.367 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.097Z",
+  "input": [
+    "17:13:52.620 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.108Z",
+  "input": [
+    "17:13:53.618 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.121Z",
+  "input": [
+    "17:13:54.350 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.134Z",
+  "input": [
+    "17:13:55.344 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.146Z",
+  "input": [
+    "17:13:56.595 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.158Z",
+  "input": [
+    "17:13:57.611 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.171Z",
+  "input": [
+    "17:13:58.334 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.183Z",
+  "input": [
+    "17:13:59.586 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.195Z",
+  "input": [
+    "17:14:00.586 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.200Z",
+  "input": [
+    "17:14:01.565 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.212Z",
+  "input": [
+    "17:14:02.314 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.223Z",
+  "input": [
+    "17:14:03.569 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.237Z",
+  "input": [
+    "17:14:04.555 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.248Z",
+  "input": [
+    "17:14:05.549 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.261Z",
+  "input": [
+    "17:14:06.551 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.279Z",
+  "input": [
+    "17:14:08.536 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.291Z",
+  "input": [
+    "17:14:09.281 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.305Z",
+  "input": [
+    "17:14:10.536 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.318Z",
+  "input": [
+    "17:14:11.545 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.330Z",
+  "input": [
+    "17:14:12.527 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.342Z",
+  "input": [
+    "17:14:13.530 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.356Z",
+  "input": [
+    "17:14:14.532 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.369Z",
+  "input": [
+    "17:14:15.514 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.381Z",
+  "input": [
+    "17:14:16.600 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.392Z",
+  "input": [
+    "17:14:17.624 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.403Z",
+  "input": [
+    "17:14:18.725 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.416Z",
+  "input": [
+    "17:14:19.575 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.428Z",
+  "input": [
+    "17:14:20.612 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.440Z",
+  "input": [
+    "17:14:21.806 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.452Z",
+  "input": [
+    "17:14:22.782 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.465Z",
+  "input": [
+    "17:14:23.600 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.476Z",
+  "input": [
+    "17:14:24.644 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.488Z",
+  "input": [
+    "17:14:25.740 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.502Z",
+  "input": [
+    "17:14:26.727 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.513Z",
+  "input": [
+    "17:14:27.774 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.523Z",
+  "input": [
+    "17:14:29.809 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.533Z",
+  "input": [
+    "17:14:30.704 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.543Z",
+  "input": [
+    "17:14:31.442 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.554Z",
+  "input": [
+    "17:14:32.695 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.566Z",
+  "input": [
+    "17:14:33.445 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.581Z",
+  "input": [
+    "17:14:34.432 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.593Z",
+  "input": [
+    "17:14:35.438 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.605Z",
+  "input": [
+    "17:14:36.692 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.617Z",
+  "input": [
+    "17:14:37.421 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.628Z",
+  "input": [
+    "17:14:38.428 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.641Z",
+  "input": [
+    "17:14:39.688 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.652Z",
+  "input": [
+    "17:14:40.695 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.664Z",
+  "input": [
+    "17:14:41.401 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.677Z",
+  "input": [
+    "17:14:42.407 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.689Z",
+  "input": [
+    "17:14:43.647 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.700Z",
+  "input": [
+    "17:14:44.401 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.713Z",
+  "input": [
+    "17:14:45.388 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.725Z",
+  "input": [
+    "17:14:46.731 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.737Z",
+  "input": [
+    "17:14:47.601 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.748Z",
+  "input": [
+    "17:14:48.665 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.760Z",
+  "input": [
+    "17:14:49.605 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.771Z",
+  "input": [
+    "17:14:50.655 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.783Z",
+  "input": [
+    "17:14:51.700 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.794Z",
+  "input": [
+    "17:14:52.796 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}
+{
+  "pgn": 65379,
+  "prio": 7,
+  "src": 204,
+  "dst": 255,
+  "timestamp": "2026-10-04T07:35:04.807Z",
+  "input": [
+    "17:14:53.562 R 1CFF63CC 3B 9F 00 00 00 00 03 FF"
+  ],
+  "description": "Seatalk: Pilot Mode",
+  "fields": {
+    "manufacturerCode": "Raymarine",
+    "industryCode": "Marine Industry",
+    "Manufacturer Code": "Raymarine",
+    "Industry Code": "Marine Industry",
+    "Pilot Mode": "Standby",
+    "Sub Mode": 0,
+    "Pilot Mode Data": 3
+  },
+  "id": "seatalkPilotMode"
+}

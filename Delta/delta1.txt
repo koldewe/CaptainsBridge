@@ -1,9 +1,55 @@
 src
 
-0 => Waarschijnlijk Compass
+0 =>
+  "fields": {
+    "NMEA 2000 Version": 2.1,
+    "Product Code": 21411,
+    "Model ID": "E70328",
+    "Software Version Code": "3.13",
+    "Model Version": "Raymarine p70s Control Head",
+    "Model Serial Code": "1155237",
+    "Certification Level": 2,
+    "Load Equivalency": 5
+  },
 1 => AIS
+
+6 => 12Inch Display:
+  "fields": {
+    "NMEA 2000 Version": 2.1,
+    "Product Code": 13957,
+    "Model ID": "E70284",
+    "Software Version Code": "19.03",
+    "Model Version": "Raymarine eS127",
+    "Model Serial Code": "0960223",
+    "Certification Level": 2,
+    "Load Equivalency": 1
+  },
+
+
 115 => Netwerk Device
-116 => GAteway
+116 => Gateway
+
 172 => ACU200
+  "fields": {
+    "NMEA 2000 Version": 2.1,
+    "Product Code": 10499,
+    "Model ID": "E70099A",
+    "Software Version Code": "3.13 (RSCP V1 L4)",
+    "Model Version": "Raymarine ACU200 Actuator Unit",
+    "Model Serial Code": "1150270",
+    "Certification Level": 2,
+    "Load Equivalency": 1
+  },
+
 2   => plotter
-204 => 
+204 => Stuur automaat
+  "fields": {
+    "NMEA 2000 Version": 1.301,
+    "Product Code": 29086,
+    "Model ID": "E70096",
+    "Software Version Code": "3.18 (RSCP V1 L4)",
+    "Model Version": "Raymarine EV-1 Course Computer",
+    "Model Serial Code": "0162189",
+    "Certification Level": "Level B",
+    "Load Equivalency": 1
+  },
