@@ -98,7 +98,7 @@ function sendRaw(canId, bytes) {
       .map(b => b.toString(16).toUpperCase().padStart(2, "0"))
       .join(" ");
 
-  console.log("TX RAW:", line);
+  //console.log("TX RAW:", line);
 
   socket.write(line + "\r\n");
 }
@@ -154,7 +154,6 @@ function sendProductInformation() {
       "Load Equivalency": 1
     }
   });
-  //sendPgnList();
 }
 
 
@@ -265,7 +264,7 @@ function sendAcknowledge(pgn) {
 
 
 function handleIncomingPgn(pgn) {
-  console.log(`RX PGN ${pgn.pgn} van src ${pgn.src}:`, JSON.stringify(pgn.fields));
+  //console.log(`RX PGN ${pgn.pgn} van src ${pgn.src}:`, JSON.stringify(pgn.fields));
 
   // BELANGRIJK: dit is de PGN waar we specifiek op willen letten. Als de
   // +1/+10/-1/-10-knoppen na deze wijziging verschijnen, komt een druk op
@@ -292,6 +291,8 @@ function handleIncomingPgn(pgn) {
 
 
     if (pgn.pgn === 126208 && pgn.fields && pgn.fields['PGN'] !== undefined) {
+
+    console.log("RX PGN 126208")
 
     const requestedPgn = pgn.fields['PGN'];
     if (requestedPgn === 65379) {
