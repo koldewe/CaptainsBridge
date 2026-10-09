@@ -35,7 +35,7 @@ const canboatjs = require('@canboat/canboatjs');
 // anders heten (zie punt 2 hierboven).
 const FromPgn = canboatjs.FromPgn;
 const pgnToYdgwRawFormat = canboatjs.pgnToYdgwRawFormat;
-
+const OUR_ADDRESS = 35;             // NMEA2000 bronadres dat wij claimen (0-251)
 const transportType = (
     process.env.TRANSPORT || 'wifi'
 ).toLowerCase();
