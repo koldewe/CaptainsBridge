@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@canboat/canboatjs": "^3.20.0"
+    "@canboat/canboatjs": "^3.20.0",
+    "socketcan": "^4.0.7"
   }
 }
